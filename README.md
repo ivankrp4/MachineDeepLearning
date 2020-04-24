@@ -1,4 +1,4 @@
-### My portfolio of selected machine learning and deep learning implementations. 
+### My portfolio of selected machine learning and deep learning implementations (written in Python). 
 
 The main tools include 
 
